@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hasini Kolluri</h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=250&section=header&text=Hasini%20Kolluri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Future+ML+Engineer;Building+End-to-End+AI+Projects" />
 </p> 
 
-<h3 align="center">
-Artificial Intelligence & Data Science Student | Machine Learning Enthusiast | Aspiring ML Engineer
-</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hasini-Kolluri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
