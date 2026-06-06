@@ -109,27 +109,6 @@ Artificial Intelligence & Data Science Student | Machine Learning Enthusiast | A
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hasini-Kolluri&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasini-Kolluri&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hasini-Kolluri&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasini-Kolluri&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 * Building End-to-End Machine Learning Projects
