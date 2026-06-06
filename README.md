@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hasini Kolluri</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=250&section=header&text=Hasini%20Kolluri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
