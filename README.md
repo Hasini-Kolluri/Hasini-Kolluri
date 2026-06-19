@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hasini Kolluri</h1>
 <h3 align="center">AI & Data Science Student | Machine Learning Enthusiast | Aspiring ML Engineer</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/hasini-kolluri">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@hasinikolluri">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:hasinikolluri10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # 💫 About Me
 
 Hello! I'm **Hasini Kolluri**, a B.Tech student in **Artificial Intelligence & Data Science** at **IIITDM Kurnool**.
@@ -19,11 +33,25 @@ Always open to learning, collaborating, and contributing to exciting projects.
 
 ---
 
-## 🌐 Socials
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-kolluri)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasinikolluri)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinikolluri10@gmail.com)
+### 🎙️ Lecture Voice to Smart Notes
+Transform recorded lectures into structured, readable notes using AI-powered processing and summarization.
+
+🔗 **Repository:**  
+https://github.com/Hasini-Kolluri/Lecture-voice-to-smart-notes
+
+### 📈 Customer Churn Prediction
+Built an end-to-end Machine Learning pipeline for predicting customer churn using feature engineering, preprocessing, model evaluation, and hyperparameter tuning techniques. Customer churn prediction is a widely used business ML application for customer retention analytics. :contentReference[oaicite:0]{index=0}
+
+🔗 **Repository:**  
+https://github.com/Hasini-Kolluri/Customer-Churn-Prediction
+
+### 💬 E-Consultation Sentiment Analysis
+An NLP-powered sentiment analysis dashboard developed for the Smart India Hackathon (SIH), designed to analyze public consultation comments using modern transformer-based techniques.
+
+🔗 **Repository:**  
+https://github.com/Hasini-Kolluri/E-consultation-Sentiment-Analysis
 
 ---
 
@@ -59,26 +87,41 @@ Always open to learning, collaborating, and contributing to exciting projects.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hasini-Kolluri&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasini-Kolluri&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Hasini-Kolluri&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=Hasini-Kolluri&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasini-Kolluri&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasini-Kolluri&theme=tokyonight&hide_border=true&layout=compact)
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasini-Kolluri&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Hasini-Kolluri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasini-Kolluri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Hasini-Kolluri&label=Profile%20Views&color=0e75b6&style=flat)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasini-Kolluri&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
