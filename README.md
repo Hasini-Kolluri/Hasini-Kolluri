@@ -41,17 +41,17 @@ Transform recorded lectures into structured, readable notes using AI-powered pro
 🔗 **Repository:**  
 https://github.com/Hasini-Kolluri/Lecture-voice-to-smart-notes
 
-### 📈 Customer Churn Prediction
-Built an end-to-end Machine Learning pipeline for predicting customer churn using feature engineering, preprocessing, model evaluation, and hyperparameter tuning techniques. Customer churn prediction is a widely used business ML application for customer retention analytics. :contentReference[oaicite:0]{index=0}
-
-🔗 **Repository:**  
-https://github.com/Hasini-Kolluri/Customer-Churn-Prediction
-
 ### 💬 E-Consultation Sentiment Analysis
 An NLP-powered sentiment analysis dashboard developed for the Smart India Hackathon (SIH), designed to analyze public consultation comments using modern transformer-based techniques.
 
 🔗 **Repository:**  
 https://github.com/Hasini-Kolluri/E-consultation-Sentiment-Analysis
+
+### 📈 Customer Churn Prediction
+Built an end-to-end Machine Learning pipeline for predicting customer churn using feature engineering, preprocessing, model evaluation, and hyperparameter tuning techniques. Customer churn prediction is a widely used business ML application for customer retention analytics.
+
+🔗 **Repository:**  
+https://github.com/Hasini-Kolluri/Customer-Churn-Prediction
 
 ---
 
