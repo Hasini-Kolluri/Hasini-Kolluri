@@ -98,14 +98,6 @@ https://github.com/Hasini-Kolluri/Customer-Churn-Prediction
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasini-Kolluri&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
